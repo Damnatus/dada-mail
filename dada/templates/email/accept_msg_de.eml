@@ -15,13 +15,13 @@ Content-Disposition: inline
 Content-Transfer-Encoding: binary
 
 
-Hello, 
+Hallo, 
 
-Your recent message sent to <!-- tmpl_var list_settings.list_name --> with the subject of: 
+deine kürzlich versendete Nachricht zu <!-- tmpl_var list_settings.list_name --> mit dem Betreff: 
 
     <!-- tmpl_var message_subject -->
     
-was accepted, and is being sent to the mailing list. 
+wurde akzeptiert und weitergeleitet. 
 
 -- <!-- tmpl_var Plugin_Name -->
 
