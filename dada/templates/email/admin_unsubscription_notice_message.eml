@@ -22,7 +22,7 @@ Server Time: <!-- tmpl_var date -->
 IP Logged:   <!-- tmpl_var REMOTE_ADDR -->
 <!-- tmpl_var note -->
 
-There are now a total of: <!-- tmpl_var num_subscribers --> subscribers.
+Insgesamt gibt es nun: <!-- tmpl_var num_subscribers --> Abonennten.
 
 -<!-- tmpl_var PROGRAM_NAME -->
 
