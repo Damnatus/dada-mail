@@ -22,7 +22,7 @@ Server Time: <!-- tmpl_var date -->
 IP Logged:   <!-- tmpl_var REMOTE_ADDR -->
 <!-- tmpl_var note -->
 
-<!-- tmpl_if subscriber -->Zusätzliche Abonennten information: 
+<!-- tmpl_if subscriber --> Zusätzliche Information zum Abonennten: 
 -----------------------------
 <!-- tmpl_loop subscriber --> 
 <!-- tmpl_var name -->: <!-- tmpl_var value -->
