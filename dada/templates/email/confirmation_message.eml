@@ -14,50 +14,54 @@ Content-Type: text/plain
 Content-Disposition: inline
 Content-Transfer-Encoding: binary
 
-Hello! 
+Hallo! 
 
-This message has been sent to you as the final step to confirm your
-email list subscription for the following list: 
+Diese Nachricht wurde Ihnen als letzter Schritt zugesandt, 
+um ihr Abonement für folgende Mailingliste zu bestätigen:
 
 <!-- tmpl_var list_settings.list_name -->
 
-To confirm this subscription, please follow the URL below:
+Um dieses Abonement zu bestätigen, klicken Sie bitte auf die
+unten stehende URL:
 
 <!-- tmpl_var list_confirm_subscribe_link -->
 
-(Click the URL above, or copy and paste the URL into your browser. 
-Doing so will subscribe you to this list.)
+(Klicken Sie auf die obenstehende URL oder kopieren und fügen Sie
+diese in Ihren Browser-Adresszeile ein. Sie abonieren damit die 
+Mailingliste.)
 
 -----------------------------------------------------------------------
 
-The following is the description given for this list: 
+Nachfolgend die für die Mailingliste gegebene Beschreibung: 
 
 <!-- tmpl_var list_settings.info -->
 
 -----------------------------------------------------------------------
 
-This email is part of a Closed-Loop Opt-In system and was sent to protect 
-the privacy of the owner of this email address. Closed-Loop Opt-In confirmation 
-guarantees that only the owner of an email address can subscribe themselves
-to this mailing list.
+Diese E-Mail ist Teil eines geschlossenen Opt-In Systems und wurde zum
+Schutz der Privatsphäre des Adressen-Eigentümers gesendet. Geschlossene 
+Opt-In Bestätigungen garantieren, dass auschließlich der Eigentümer der 
+E-Mail-Adresse selbst Mailinglisten abonnieren kann.
 
-Furthermore, the following privacy policy is associated with this list: 
+Zusätzlich gelten folgende Datenschutzbestimmungen für die Mailingliste: 
 
 <!-- tmpl_var list_settings.privacy_policy -->
 
-Please read and understand this privacy policy. Other mechanisms may 
-have been enacted to subscribe email addresses to this list, such as
-physical guestbook registrations, verbal agreements, etc.
+Bitte lesen Sie die Datenschutzbestimmungen aufmerksam. Daneben können
+andere Methoden gewählt worden sein, um dieser Liste E-Mail Adressen 
+hinzuzufügen wie etwa die Regestrierung über ein physikalisches Gästebuch
+oder mündliche Übereinkünfte o.ä.
 
-If you did not ask to be subscribed to this particular list, please
-do not visit the confirmation URL above. The confirmation for 
-subscription will not go through and no other action on your part 
-will be needed.
+Sofern Sie sich nicht für die Mailingliste angemeldet haben, klicken Sie 
+nicht auf die obige Bestätigungs-URL. Damit wird Ihr Abonement nicht bestätigt 
+und es sind keine weiteren Schritte Ihrerseits nötig.
 
-To contact the owner of this email list, please use the address below: 
+Um den Besitzer dieser Mailingliste zu kontaktieren nutzen Sie bitte die
+unten stehende Adresse.
 
 mailto:<!-- tmpl_var list_settings.list_owner_email -->
 
+Die folgende Adresse ist mit der Mailingliste verknüpft:
 The following physical address is associated with this mailing list: 
 
 <!-- tmpl_var list_settings.physical_address -->
