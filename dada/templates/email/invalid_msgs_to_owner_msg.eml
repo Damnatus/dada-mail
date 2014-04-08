@@ -15,12 +15,12 @@ Content-Type: text/plain
 Content-Disposition: inline
 Content-Transfer-Encoding: binary
 
-
-The attached message was sent to your Mailing List, 
+Die angehängte Nachricht wurde an Ihre Mailingliste versendet,
 
 	<!-- tmpl_var list_settings.list_name -->
-	
-but was not sent from an address that has permission to do so. 
+
+wobei sie von einer E-Mail Adresse stammte, welche nicht die 
+Berechtigung dazu hatte.
 
 -- <!-- tmpl_var PROGRAM_NAME -->
 
