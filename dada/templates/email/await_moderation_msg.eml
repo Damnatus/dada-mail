@@ -17,7 +17,7 @@ Content-Transfer-Encoding: binary
 
 Hallo, 
 
-deine kürzlich versendete Nachricht an <!-- tmpl_var list_settings.list_name --> mit dem Betreff: 
+Ihre kürzlich versendete Nachricht an <!-- tmpl_var list_settings.list_name --> mit dem Betreff: 
 
     <!-- tmpl_var message_subject --> 
   
