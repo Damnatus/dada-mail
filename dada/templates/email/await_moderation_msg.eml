@@ -15,13 +15,13 @@ Content-Disposition: inline
 Content-Transfer-Encoding: binary
 
 
-Hello, 
+Hallo, 
 
-Your recent message to <!-- tmpl_var list_settings.list_name --> with the subject of: 
+deine kürzlich versendete Nachricht an <!-- tmpl_var list_settings.list_name --> mit dem Betreff: 
 
     <!-- tmpl_var message_subject --> 
   
-is awaiting approval. 
+wartet auf Freigabe durch einen Moderator. 
 
 -- <!-- tmpl_var Plugin_Name -->
 
