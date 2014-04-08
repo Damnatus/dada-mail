@@ -17,11 +17,11 @@ Content-Transfer-Encoding: binary
 
 Hallo, 
 
-deine kürzlich versendete Nachricht an <!-- tmpl_var list_settings.list_name --> mit dem Betreff: 
+Ihre kürzlich versendete Nachricht an <!-- tmpl_var list_settings.list_name --> mit dem Betreff: 
 
     <!-- tmpl_var message_subject -->
     
-wurde akzeptiert und weitergeleitet. 
+wurde akzeptiert und an die Mailingliste weitergeleitet. 
 
 -- <!-- tmpl_var Plugin_Name -->
 
