@@ -14,7 +14,7 @@ Content-Disposition: inline
 Content-Transfer-Encoding: binary
 
 
-<!-- tmpl_var subscriber.email --> has been unsubscribed from:
+<!-- tmpl_var subscriber.email --> deabonnierte:
 
 	<!-- tmpl_var list_settings.list_name -->
 
